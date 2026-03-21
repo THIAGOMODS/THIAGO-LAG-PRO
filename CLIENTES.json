@@ -9,7 +9,7 @@
         "device_id": "CLIENTE2",
         "key": "CLIENTE2",
         "expirydate": "10-06-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "CLIENTE3",
