@@ -1,0 +1,122 @@
+[
+    {
+        "device_id": "CLIENTE1",
+        "key": "CLIENTE1",
+        "expirydate": "10-12-2035",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "CLIENTE2",
+        "key": "CLIENTE2",
+        "expirydate": "10-06-2035",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "CLIENTE3",
+        "key": "CLIENTE3",
+        "expirydate": "10-12-2035",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "CLIENTE4",
+        "key": "CLIENTE4",
+        "expirydate": "10-06-2035",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "CLIENTE5",
+        "key": "CLIENTE5",
+        "expirydate": "10-12-2035",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "CLIENTE6",
+        "key": "CLIENTE6",
+        "expirydate": "10-06-2035",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "CLIENTE7",
+        "key": "CLIENTE7",
+        "expirydate": "10-12-2035",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "CLIENTE8",
+        "key": "CLIENTE8",
+        "expirydate": "10-06-2035",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "CLIENTE9",
+        "key": "CLIENTE9",
+        "expirydate": "10-12-2035",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "CLIENTE10",
+        "key": "CLIENTE10",
+        "expirydate": "10-06-2035",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "CLIENTE11",
+        "key": "CLIENTE11",
+        "expirydate": "10-12-2035",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "CLIENTE12",
+        "key": "CLIENTE12",
+        "expirydate": "10-06-2035",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "CLIENTE13",
+        "key": "CLIENTE13",
+        "expirydate": "10-12-2035",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "CLIENTE14",
+        "key": "CLIENTE14",
+        "expirydate": "10-06-2035",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "CLIENTE15",
+        "key": "CLIENTE15",
+        "expirydate": "10-12-2035",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "CLIENTE16",
+        "key": "CLIENTE16",
+        "expirydate": "10-06-2035",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "CLIENTE17",
+        "key": "CLIENTE17",
+        "expirydate": "10-12-2035",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "CLIENTE18",
+        "key": "CLIENTE18",
+        "expirydate": "10-06-2035",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "CLIENTE19",
+        "key": "CLIENTE19",
+        "expirydate": "10-12-2035",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "CLIENTE20",
+        "key": "CLIENTE20",
+        "expirydate": "10-06-2035",
+        "Allowoffline": false
+    }
+]
