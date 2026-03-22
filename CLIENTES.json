@@ -12,10 +12,10 @@
         "Allowoffline": true
     },
     {
-        "device_id": "CLIENTE3",
-        "key": "CLIENTE3",
+        "device_id": "f180c3463376a8c4",
+        "key": "3",
         "expirydate": "10-12-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "CLIENTE4",
